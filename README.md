@@ -92,11 +92,11 @@ browser->backend program: .html, .js, .cssファイル送信
 #### 1.2 フロントエンドフレームワークの登場
 フロントエンドフレームワークは下記３つがあります
 
-- [Angular](https://angular.jp/): ガッツリやりたい人向け
+- [Angular](https://angular.jp/): 大規模にガッツリとやりたい人向け
   - google製フレームワーク。
   - 幅広い機能がサポートされているが、その分実装コストも大きい
 
-- [Vue.js](https://jp.vuejs.org/): サックリやりたい人向け
+- [Vue.js](https://jp.vuejs.org/): 比較的コンパクトにとサックリやりたい人向け
   - [OSSコミュニティ](https://jp.vuejs.org/v2/guide/team.html)で発展したフレームワーク。
   - 日本語ドキュメントが豊富
   - Angularと比較して機能は絞られているが、その分実装コストは小さい
@@ -107,15 +107,16 @@ browser->backend program: .html, .js, .cssファイル送信
     [19 Best React UI Component Libraries / Frameworks for 2019](https://www.codeinwp.com/blog/react-ui-component-libraries-frameworks/)
 
 ### 2. 環境構築
-0. 開発環境用意
-	[Visual Studio Code – コード エディター | Microsoft Azure](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
+0. 開発環境用意  
+  下記サイトから最新版をdownload & install  
+  [Visual Studio Code – コード エディター | Microsoft Azure](https://azure.microsoft.com/ja-jp/products/visual-studio-code/)
 
 1. node.js  
   下記サイトからLTS(Long Term Support) 版をdownload & install  
-  [Node.js](https://nodejs.org/ja/) 
+  [Node.js](https://nodejs.org/ja/)   
 
-2. Reactアプリ作成ツール(create-react-app)
-  下記サイトの要領でcreate-react-appを導入 
+2. Reactアプリ作成ツール(create-react-app)  
+  下記サイトの要領でcreate-react-appを導入   
   [新しい React アプリを作る – React](https://ja.reactjs.org/docs/create-a-new-react-app.html)
 
 ### 3. サンプルアプリによるReact体験
