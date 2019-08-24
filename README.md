@@ -188,7 +188,7 @@ file: ./src/App.css
 と書かれているからです
 
 ### 4. React用コンポーネント自作
-3章で雰囲気はつかめたと思うので、ここからはReact公式サイトのチュートリアルから説明してゆきます
-
+3章で雰囲気はつかめたと思うので、ここからはReact公式サイトのチュートリアルから説明してゆきます  
+  
 [チュートリアル：React の導入 – React](https://ja.reactjs.org/tutorial/tutorial.html)
     
