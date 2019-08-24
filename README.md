@@ -134,19 +134,19 @@ npm start
 
 **処理の流れ**
 - Step1. html表示  
-  file: ./public/index.html  
+  file: [./public/index.html](https://github.com/AkiEga/Presentation-20190824_react1_Appendix1_hello_react/blob/master/public/index.html)  
   ```html
   <div id="root"></div>
   ```
 ↓
 - Step2. htmlに紐付けられたjs実行→React製コンポーネント起動  
-  file: ./src/index.js  
+  file: [./src/index.js](https://github.com/AkiEga/Presentation-20190824_react1_Appendix1_hello_react/blob/master/src/index.js)  
   ```js
   ReactDOM.render(<App />, document.getElementById('root'));
   ```
 ↓
 - Step3. React製コンポーネントの描画実施  
-  file: ./src/App.js  
+  file: [./src/App.js](https://github.com/AkiEga/Presentation-20190824_react1_Appendix1_hello_react/blob/master/src/App.js)  
   ```js
   function App() {
     return (
@@ -172,12 +172,12 @@ npm start
 
 ちなみにロゴがくるくる回っているのは  
 
-file: ./src/App.js  
+file: [./src/App.js](https://github.com/AkiEga/Presentation-20190824_react1_Appendix1_hello_react/blob/master/src/App.js)  
 ```js
 import './App.css';
 ```
 ↓  
-file: ./src/App.css  
+file: [./src/App.css](https://github.com/AkiEga/Presentation-20190824_react1_Appendix1_hello_react/blob/master/src/App.css)  
 ```css
 .App-logo {
   animation: App-logo-spin infinite 20s linear;
