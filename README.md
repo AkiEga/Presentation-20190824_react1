@@ -133,19 +133,19 @@ npm start
 処理の流れは下記です。
 
 **処理の流れ**
-- Step1. html表示
+- Step1. html表示  
   file: ./public/index.html  
   ```html
   <div id="root"></div>
   ```
 ↓
-- Step2. htmlに紐付けられたjs実行→React製コンポーネント起動
+- Step2. htmlに紐付けられたjs実行→React製コンポーネント起動  
   file: ./src/index.js  
   ```js
   ReactDOM.render(<App />, document.getElementById('root'));
   ```
 ↓
-- Step3. React製コンポーネントの描画実施
+- Step3. React製コンポーネントの描画実施  
   file: ./src/App.js  
   ```js
   function App() {
