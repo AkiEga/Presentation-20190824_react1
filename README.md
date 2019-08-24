@@ -129,7 +129,7 @@ npm start
 ```
 
 #### 3.1 中身ではどうやっているのか
-[prac3_hello_react](./code/prac3_hello_react) をベースに解説します
+上記手順で作成した[サンプルアプリケーション](https://github.com/AkiEga/Presentation-20190824_react1_Appendix1_hello_react) をベースに解説します
 処理の流れは下記です。
 
 **処理の流れ**
@@ -188,8 +188,7 @@ file: ./src/App.css
 と書かれているからです
 
 ### 4. React用コンポーネント自作
-もうちょっと突っ込んで触ってみましょう
+3章で雰囲気はつかめたと思うので、ここからはReact公式サイトのチュートリアルから説明してゆきます
 
-
-
+[チュートリアル：React の導入 – React](https://ja.reactjs.org/tutorial/tutorial.html)
     
